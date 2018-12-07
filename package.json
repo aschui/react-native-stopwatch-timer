@@ -1,17 +1,20 @@
 {
-  "name": "react-native-stopwatch-timer",
-  "version": "0.0.20",
-  "description": "A stopwatch/timer component for React Native.",
+  "name": "react-native-stopwatch-timer-custom",
+  "version": "1.0.0",
+  "description": "A stopwatch and timer for react native",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaeljstevens/react-native-stopwatch-timer"
+    "url": "git+https://github.com/aschui/react-native-stopwatch-timer.git"
   },
-  "keywords": [
-    "react-native",
-    "stopwatch",
-    "timer"
-  ],
-  "author": {
-    "name": "Michael Stevens"
-  }
+  "author": "Anthony Chui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschui/react-native-stopwatch-timer/issues"
+  },
+  "homepage": "https://github.com/aschui/react-native-stopwatch-timer#readme"
 }

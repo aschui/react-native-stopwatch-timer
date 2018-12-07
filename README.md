@@ -9,7 +9,7 @@ Forked from [michaeljstevens/react-native-stopwatch-timer](https://github.com/mi
 ### Instructions
 
 ```js
-import { Stopwatch, Timer } from 'react-native-stopwatch-timer'
+import { Stopwatch, Timer } from 'react-native-stopwatch-timer-custom'
 ```
 
 ### Options
